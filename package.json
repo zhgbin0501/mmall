@@ -10,7 +10,7 @@
   "dependencies": {
     "acorn-dynamic-import": "^4.0.0",
     "antd": "^3.10.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "2.4.1",
     "connected-react-router": "^4.4.1",
     "dotenv": "6.0.0",
